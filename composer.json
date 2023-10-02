@@ -1,0 +1,10 @@
+{
+    "name": "bbugsoft/bbugsoft.com",
+    "description": "email details",
+    "autoload": {
+        "psr-4": {
+            "Bbugsoft\\BbugsoftCom\\": "src/"
+        }
+    },
+    "require": {"phpmailer/phpmailer": "^6.5"}
+}
